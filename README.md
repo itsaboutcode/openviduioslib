@@ -1,3 +1,4 @@
-# openviduioslib
+# OpenVidu iOS Client Library
 
-A description of this package.
+## [OpenVidu Server RPC protocol](https://docs.openvidu.io/en/stable/developing/rpc/)
+
